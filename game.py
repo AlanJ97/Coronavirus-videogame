@@ -5,6 +5,7 @@ import pygame, random
 pygame.init()
 
 
+
 #ESPECIFICANDO LOS FPS
 clock = pygame.time.Clock()
 
